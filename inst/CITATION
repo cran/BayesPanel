@@ -1,0 +1,17 @@
+citHeader ("To cite package 'BayesPanel' in publications use:")
+
+desc <- packageDescription("BayesPanel")
+year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", desc$Date)
+vers <- paste("R package version", desc$Version)
+
+citEntry(entry = "Manual",
+         title = "BayesPanel: Bayesian Methods for Panel Data Modeling and Inference",
+	 author = personList(as.person("Chunhua Wu"), as.person("Siddhartha Chib")),
+	 year = year,
+	 note = vers,
+
+	 textVersion =
+	 paste("Chunhua Wu and Siddhartha Chib (", year, "). BayesPanel:
+	       Bayesian Methods for Panel Data Modeling and Inference. ",
+	       vers, ".", sep = "")
+	 )
