@@ -5,7 +5,7 @@
 ## PUBLIC LICENSE Version 2, June 1991.  See the package LICENSE
 ## file for more information.
 ##
-## Copyright (C) 2010-present Siddhartha Chib and Chunhua Wu 
+## Copyright (C) 2010-present Chunhua Wu and Siddhartha Chib 
 ## 
 ##########################################################################
 

@@ -6,7 +6,7 @@
 ## For detailed information on the methods, please refer to Wakefiled et al.
 ## (1994) and Chib and Carlin (1999).
 ##
-## Codes written by Chunhua Wu and Siddhartha Chib, 01/01/2010
+## Codes written by Chunhua Wu and Siddhartha Chib, 04/25/2010
 ## For comments, please email to chunhuawu@wustl.edu
 ################################################################################
 

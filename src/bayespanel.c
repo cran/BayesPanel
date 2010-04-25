@@ -36,7 +36,7 @@ void bayespanel (int *control, int *link, int*hetero, int *arma,
     const int M = control[1]; // number of iterations
     const int Mo = control[2]; // number of output iterations
     const int G = control[3]; // number of additional iterations used for marginal likelihood
-    const ulong seed = control[4];
+    const unsigned long int seed = control[4];
     const int thin = control[5];
     const int verbose = control[6];
     const int ar = arma[0];
